@@ -1,14 +1,17 @@
-# WARNING DO NO USE
-This is not up-to-date or necessarily well-written and is only uploaded as a historical document / for educational purposes.
+# ⚠️ WARNING: DO NOT USE
 
-# Legacy CMS
-On popular demand (when I mention this, people tend to be curious and want to see the code)! This is a CMS that I wrote in vanilla PHP in my bedroom in the 2000s. It could possibly be used as a training target/CTF - do let me know if you do use it - I may or may not want credits.
+This repository is not up-to-date or meticulously written; it is provided solely as a historical document for educational purposes.
 
-# Changes from the original
-Usernames/URLs have been updated.
-Pictures that I do not have the right to use have been removed.
+## Legacy CMS
 
-# To-do
-Make sure there is no personal data in SQL.txt.
-Upload SQL.txt
-Replace pictures with pictures that I do have the right to use.
+By popular demand (whenever I mention this project, people tend to express curiosity and a desire to explore the code), this is a Content Management System (CMS) that I developed in vanilla PHP during the 2000s in the confines of my bedroom. It could potentially serve as a training target or a CTF challenge. If you decide to use it, please let me know—I may or may not require credits.
+
+## Changes from the Original
+
+- Updated usernames and URLs.
+- Replaced pictures I lacked the right to use with machine learning-generated images. Similar to the code, these replacements aim to stay true to the original.
+
+## To-Do
+
+- Ensure SQL.txt contains no personal data.
+- Upload SQL.txt.
